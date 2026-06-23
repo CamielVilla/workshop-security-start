@@ -1,3 +1,14 @@
+
+Let op:
+Om het initiële project werkend te krijgen moet je:
+
+1. De json uit de assets map uploaden in de Novi Dynamic API
+2. Een env bestand aanmaken met daarin:
+VITE_PROJECT_ID=Jouw eigen project ID
+VITE_API_BASE_URL=https://novi-backend-api-wgsgz.ondigitalocean.app/api    
+
+
+Opdracht Workshop:
 1. Maak een Auth0 Application aan op auth0.com
 2. voeg Callbacks, Logout URL, Web Origins toe
 3. Maak een API aan in Auth0
